@@ -1,0 +1,22 @@
+# Tarea1IPC1
+Tarea dejada el dia 1/02/2019 para entregar a las 5pm del mismo dia.
+
+inicio Tarea1
+
+var alturaTriangulo
+var baseTriangulo
+var areaTriangulo
+var areaTotal
+
+Escribir "Ingrese altura del triangulo: "
+leer alturaTriangulo
+Escribir "Ingrese la base del triangulo: "
+leer baseTriangulo 
+
+areaTriangulo = alturaTriangulo * baseTriangulo
+areaTotal = areaTriangulo / 2
+Escribir "El area total del triangulo es: "+areaTotal
+
+Fin
+
+	
